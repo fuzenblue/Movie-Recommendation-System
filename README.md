@@ -29,3 +29,11 @@ This project was inspired by the open-source repository: [https://github.com/Cha
 - Improved recommendation accuracy and user satisfaction with personalized suggestions.
 - Reduced inconsistencies in data processing, resulting in cleaner outputs.
 - Enhanced user interaction through a visually appealing and intuitive UI.
+
+![สกรีนช็อต 2025-01-08 055717](https://github.com/user-attachments/assets/c96cfb94-f1de-4514-a36a-46ee1eaa59c2)
+
+![สกรีนช็อต 2025-01-08 055737](https://github.com/user-attachments/assets/ab84b2a8-cc94-448a-9821-959a921f565e)
+
+![สกรีนช็อต 2025-01-08 055953](https://github.com/user-attachments/assets/2f575702-4efa-4bcd-b0f1-2f1c9e90a6e7)
+
+
