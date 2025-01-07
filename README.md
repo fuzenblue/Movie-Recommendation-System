@@ -9,7 +9,7 @@ This project was inspired by the open-source repository: [https://github.com/Cha
 ## Key Features
 - **Genre-Based Recommendations**: 
   - Allows users to filter movies by selecting one or more genres.
-  - Supports both flexible ( any genre) and strict ( all genres) matching criteria.
+  - Supports both flexible (any genre) and strict (all genres) matching criteria.
 - **Mixed Title-Genre Recommendations**: 
   - Combines movie title similarity with user-selected genres for more tailored suggestions.
 - **Enhanced Data Preprocessing**:
