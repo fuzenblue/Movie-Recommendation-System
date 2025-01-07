@@ -4,18 +4,18 @@
 A Python-based movie recommender system developed using Streamlit. This project enhances an existing implementation by adding genre-based filtering, mixed title-genre recommendations, and improving the user interface and data processing for better functionality and usability.
 
 ## Inspiration and References
-This project was inspired by the open-source repository: ([https://github.com/YourReferenceRepo.git](https://github.com/Chando0185/movie_recommender_system.git))
+This project was inspired by the open-source repository: [https://github.com/Chando0185/movie_recommender_system.git]
 
 ## Key Features
 - **Genre-Based Recommendations**: 
   - Allows users to filter movies by selecting one or more genres.
-  - Supports both flexible (`any` genre) and strict (`all` genres) matching criteria.
+  - Supports both flexible ( any genre) and strict ( all genres) matching criteria.
 - **Mixed Title-Genre Recommendations**: 
   - Combines movie title similarity with user-selected genres for more tailored suggestions.
 - **Enhanced Data Preprocessing**:
-  - Standardized and cleaned `genre` data, filling missing values and splitting into lists.
+  - Standardized and cleaned genre data, filling missing values and splitting into lists.
 - **Algorithm Optimization**:
-  - Introduced a customizable `top_n` parameter to adjust the number of recommendations.
+  - Introduced a customizable top_n parameter to adjust the number of recommendations.
   - Improved filtering logic with cosine similarity combined with genre filters.
 
 ## Technologies Used
